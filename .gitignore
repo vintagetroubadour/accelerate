@@ -1,13 +1,4 @@
 # Ignore the following
 .DS_Store
 wp-config.php
-wp-content/uploads/2015/11/mc-thumbnail-1-150x150.png
-wp-content/uploads/2015/11/mc-thumbnail-1-300x221.png
-wp-content/uploads/2015/11/mc-thumbnail-1.png
-wp-content/uploads/2015/11/mc-thumbnail-2-150x150.png
-wp-content/uploads/2015/11/mc-thumbnail-2-222x300.png
-wp-content/uploads/2015/11/mc-thumbnail-2.png
-wp-content/uploads/2015/11/mc-thumbnail-3-150x150.png
-wp-content/uploads/2015/11/mc-thumbnail-3-150x300.png
-wp-content/uploads/2015/11/mc-thumbnail-3-512x1024.png
-wp-content/uploads/2015/11/mc-thumbnail-3.png
+wp-content/uploads/
